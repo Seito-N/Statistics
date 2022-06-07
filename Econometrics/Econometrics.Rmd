@@ -1,0 +1,22 @@
+---
+title: "Econometrics"
+author: "Seito-N"
+date: "`r Sys.Date()`"
+output:
+  bookdown::html_document2:
+    theme: cosmo
+    toc: true
+    toc_float: true
+    number_section: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE, warning = FALSE, message = FALSE)
+
+# package ----
+pacman::p_load(
+  
+)
+```
+
+# 
